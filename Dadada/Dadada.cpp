@@ -6,6 +6,6 @@ int main()
 {
 	setlocale(LC_ALL, "ru");
 	cout << "Привет мир!\n";
-	cout << "dada\n";
+	cout << "Теперь net net\n";
 	return 0;
 }
